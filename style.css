@@ -23,7 +23,7 @@ body {
     background: #ffffff;
     /* White background for container */
     border-radius: 10px;
-    padding: 20px 0px;
+    padding: 20px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     animation: fadeIn 2s ease-in-out;
 }
