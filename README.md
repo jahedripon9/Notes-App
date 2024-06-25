@@ -40,6 +40,4 @@ For any questions or feedback regarding this project, feel free to reach out:
 - Email: (jahedahmed3170@gmail.com)
 - Protfolio:(https://jahedahmed-portfolio.netlify.app/)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
