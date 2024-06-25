@@ -41,3 +41,20 @@ document.addEventListener("keydown", event => {
         event.preventDefault()
     }
 })
+
+// Example JavaScript to dynamically change h1 style
+
+// Function to apply dynamic styles
+function applyDynamicStyles() {
+    var h1Element = document.querySelector('.container h1');
+
+    // Example: Change font size and color dynamically
+    h1Element.style.fontSize = '40px';
+    h1Element.style.color = '#4CAF50';
+
+    // Add/remove classes for more complex changes
+    h1Element.classList.add('dynamic-heading');
+}
+
+// Call the function whenever needed
+applyDynamicStyles();
