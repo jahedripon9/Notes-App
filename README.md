@@ -34,10 +34,8 @@ To run this project locally, follow these steps:
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or a pull request.
 
 ## Contact
-
-For any questions or feedback regarding this project, feel free to reach out:
-
-- Email: (jahedahmed3170@gmail.com)
-- Protfolio:(https://jahedahmed-portfolio.netlify.app/)
+- Email: jahedahmed3170@gmail.com
+- Protfolio: [Protfolio](https://jahedahmed-portfolio.netlify.app/)
+- GitHub: [GitHub](https://github.com/jahedripon9)
 
 
